@@ -13,7 +13,9 @@ Instructions:
    - Do all that is necessary to build the project
    - Make the test to pass
    - Refactor if needed
-   
+
+- Add your own test
+
 Since on the lecture we have taken a look at the arrays - we are proposing to use them during the task fulfilment.
 
 Have fun :)
