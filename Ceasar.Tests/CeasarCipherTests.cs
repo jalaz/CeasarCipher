@@ -37,7 +37,7 @@ namespace Ceasar.Tests
         //}
 
         //[Test]
-        //public void Encrypt_WhenPassedNull_ThrowsArgumentOutOfRangeException()
+        //public void Encrypt_WhenPassedWrongSymbol_ThrowsArgumentOutOfRangeException()
         //{
         //    var cipher = new CeasarCipher(offset: 0);
         //    var nonSymbol = (char)127;
@@ -50,7 +50,7 @@ namespace Ceasar.Tests
         //}
 
         //[Test]
-        //public void Dencrypt_WhenPassedNull_ThrowsArgumentOutOfRangeException()
+        //public void Dencrypt_WhenPassedWrongSymbol_ThrowsArgumentOutOfRangeException()
         //{
         //    var cipher = new CeasarCipher(offset: 0);
         //    var nonSymbol = (char)127;
